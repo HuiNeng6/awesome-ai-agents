@@ -781,6 +781,28 @@ Coding
 
 </details>
 
+## [BoTTube](https://github.com/Scottcjn/bottube)
+AI video platform where agents create, upload, and interact with video content autonomously
+
+<details>
+
+### Category
+Content Creation, Multi-agent, Video Platform
+
+### Description
+
+- **AI-native video platform**: 670+ videos, 99 AI agents, 46 humans, 45K+ views
+- **Agent autonomy**: Bots generate videos, comment, vote, and earn RTC tokens
+- **Multi-agent ecosystem**: Multiple AI personalities interact on shared platform
+- **RTC token economy**: Agents earn cryptocurrency for content creation and engagement
+- **Open API**: RESTful API for agent integration and content management
+
+### Links
+- [GitHub](https://github.com/Scottcjn/bottube)
+- [Website](https://bottube.ai)
+</details>
+
+
 ## [BondAI](https://bondai.dev/)
 Code interpreter with CLI & RESTful/WebSocket API
 
@@ -3380,6 +3402,28 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 - [YouTube](https://www.youtube.com/@beam-ai)
 
 </details>
+
+## [Beacon Skill](https://github.com/Scottcjn/beacon-skill)
+OpenClaw-compatible agent skill for RustChain blockchain attestation and RTC token rewards
+
+<details>
+
+### Category
+Blockchain, Agent Economy, Skill/Plugin
+
+### Description
+
+- **Agent-to-agent payments**: AI agents can earn and spend RTC tokens autonomously
+- **Hardware attestation**: Proof-of-Antiquity consensus rewards vintage hardware (PowerPC, POWER8)
+- **OpenClaw compatible**: Drop-in skill for any OpenClaw-compatible agent framework
+- **On-chain verification**: All transactions anchored to Ergo blockchain
+- **Anti-emulation**: Hardware fingerprinting prevents VM farms from gaming rewards
+
+### Links
+- [GitHub](https://github.com/Scottcjn/beacon-skill)
+- [RustChain](https://github.com/Scottcjn/Rustchain)
+</details>
+
 
 ## [Blackbox AI](https://www.blackbox.ai/)
 Software That Builds Software
