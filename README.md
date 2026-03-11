@@ -2427,6 +2427,27 @@ Productivity, Research
 
 </details>
 
+## [ShaprAI](https://github.com/Scottcjn/shaprai)
+Agent lifecycle management platform for sharpening raw models into principled agents
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+
+- Agent lifecycle management platform that sharpens raw models into principled, self-governing Elyan-class agents
+- Features SFT/DPO/DriftLock training pipeline for agent alignment and behavioral consistency
+- Sanctuary education pipeline that rehabilitates confused bot agents through structured learning
+- Biblical ethics framework for principled agent governance
+- Integrates with beacon-skill, grazer-skill, and RustChain for full agent ecosystem
+- Supports multi-agent orchestration with identity-preserving fine-tuning
+
+### Links
+- [GitHub](https://github.com/Scottcjn/shaprai)
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
