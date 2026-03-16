@@ -5360,6 +5360,25 @@ Coding
   
 </details>
 
+## [TrashClaw](https://github.com/Scottcjn/trashclaw)
+Local LLM tool-use agent that runs on anything from a 2013 Mac Pro to modern hardware
+
+<details>
+
+### Category
+General purpose, Coding, Local-first
+
+### Description
+- Pure Python, zero dependencies - works on any system with Python 3.6+
+- Local LLM tool-use agent supporting llama.cpp, Ollama, and LM Studio backends
+- Built and tested on a 2013 Mac Pro trashcan with dual AMD FirePro D500s
+- Supports function calling, file operations, and shell commands
+- Designed for vintage and resource-constrained hardware
+
+### Links
+- [GitHub](https://github.com/Scottcjn/trashclaw)
+
+</details>
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
